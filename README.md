@@ -31,5 +31,4 @@ Ce projet est une application de chatbot IA en Python, basée sur **Streamlit** 
 ```bash
 git clone https://github.com/bobia2025/chat-bot.git
 cd chat-bot
-<img width="755" height="802" alt="image" src="https://github.com/user-attachments/assets/40798551-d32e-4bcd-b6da-545bf1ae0f2d" />
 
