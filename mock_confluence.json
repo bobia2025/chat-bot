@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Guide d'onboarding développeur",
+    "content": "Bienvenue chez ACME Inc. Voici les outils nécessaires pour démarrer..."
+  },
+  {
+    "title": "Procédure de déploiement CI/CD",
+    "content": "1. Créer une PR\n2. Lancer le pipeline GitHub Actions..."
+  },
+  {
+    "title": "Politique de télétravail",
+    "content": "Les employés peuvent faire du télétravail jusqu'à 3 jours par semaine..."
+  },
+  {
+    "title": "Déploiement CI/CD",
+    "content": "Pour déployer, utilisez GitHub Actions avec les étapes suivantes..."
+  },
+  {
+    "title": "Politique sécurité",
+    "content": "Les employés doivent changer leur mot de passe tous les 90 jours."
+  }
+]
